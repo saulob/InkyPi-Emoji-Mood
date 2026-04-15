@@ -42,14 +42,6 @@ Smart mode adjusts moods dynamically based on time of day and day of week, while
 
 It is ideal for playlists, side widgets, or simple dashboards where you want something expressive and easy to read at a glance.
 
-## Notes
-
-* No external API required
-* No API key required
-* Lightweight and fast
-* Designed for e-paper displays
-* Development status: Active
-
 ## Screenshots
 
 - Widget on the main dashboard
