@@ -32,7 +32,7 @@ This plugin is an extension for the [InkyPi](https://github.com/fatihak/InkyPi) 
   * Fixed mood categories
 * Show caption
 * Language
-* Style (reserved for future customization)
+* Style
 
 ## Details
 
