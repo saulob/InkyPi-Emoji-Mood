@@ -1,0 +1,122 @@
+{
+  "happy": [
+    "Buenas vibras hoy",
+    "Me siento radiante",
+    "Un momento alegre",
+    "Modo sonrisa activado",
+    "Todo se siente bien",
+    "Día ligero y relajado",
+    "Energía positiva",
+    "Sigue sonriendo",
+    "Buen estado de ánimo activado",
+    "Hoy es un buen día"
+  ],
+  "neutral": [
+    "Solo navegando",
+    "Firme y tranquilo",
+    "Nada dramático hoy",
+    "Ánimo equilibrado",
+    "Tomándolo con calma",
+    "Todo bien, sin prisa",
+    "Día simple por delante",
+    "Calmado y sereno",
+    "Vibras neutras",
+    "Yendo con la corriente"
+  ],
+  "low_energy": [
+    "Tómalo con calma",
+    "Energía baja hoy",
+    "Ritmo tranquilo",
+    "Modo recargar",
+    "Vibras de batería baja",
+    "Descansa un poco más",
+    "Lento pero constante",
+    "Tómate un descanso",
+    "Modo ahorro de energía",
+    "Solo pasando el día"
+  ],
+  "stress": [
+    "Mucho pasando",
+    "Respira profundo",
+    "Desordenado pero en movimiento",
+    "Un paso a la vez",
+    "Demasiado hoy",
+    "Sigue adelante",
+    "Mantente fuerte",
+    "Respira y concéntrate",
+    "Manejando el caos",
+    "Sobrevive y sigue"
+  ],
+  "fun": [
+    "Hora de divertirse",
+    "Modo juego activado",
+    "Disfruta el momento",
+    "Solo por diversión",
+    "Tómate un descanso y juega",
+    "Buen tiempo por delante",
+    "Relájate y disfruta",
+    "Solo vibras divertidas",
+    "Suéltate un poco",
+    "Hoy es para divertirse"
+  ],
+  "weird": [
+    "Sintiendo raro hoy",
+    "Algo está fuera",
+    "Vibras extrañas",
+    "No es un día normal",
+    "Abraza el caos",
+    "Un poco inusual",
+    "Raro pero está bien",
+    "Fallo en el humor",
+    "Energía inesperada",
+    "Sigue adelante"
+  ],
+  "sick": [
+    "No me siento bien",
+    "Cuídate hoy",
+    "Descansa y recupérate",
+    "Baja el ritmo y sana",
+    "El cuerpo necesita un descanso",
+    "Día tranquilo hoy",
+    "Tómatelo con calma",
+    "Modo recuperación",
+    "Sé amable contigo mismo",
+    "Hora de descansar"
+  ],
+  "focus": [
+    "Modo foco activado",
+    "Hora de hacer las cosas",
+    "Enfocado",
+    "Tiempo de trabajo profundo",
+    "Mantente afilado",
+    "Sin distracciones",
+    "Entra en la zona",
+    "Día productivo por delante",
+    "Ojos en la meta",
+    "Construyamos algo"
+  ],
+  "adventure": [
+    "Listo para la aventura",
+    "Explora algo nuevo",
+    "Vamos a algún lugar",
+    "Nuevos horizontes hoy",
+    "Rompe la rutina",
+    "La aventura espera",
+    "Hora de explorar",
+    "Ve más allá",
+    "Prueba algo diferente",
+    "Ve el mundo"
+  ],
+  "love": [
+    "El amor está en el aire",
+    "Sintiendo el amor",
+    "Corazón lleno hoy",
+    "Comparte algo de amor",
+    "Cálido y feliz",
+    "Vibras dulces",
+    "Modo amor activado",
+    "Todo sobre el amor",
+    "Buenos sentimientos por dentro",
+    "Comparte el amor"
+  ]
+}

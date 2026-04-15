@@ -1,0 +1,122 @@
+{
+  "happy": [
+    "Suasana baik hari ini",
+    "Merasa cerah",
+    "Momen yang ceria",
+    "Mode senyum aktif",
+    "Semuanya terasa benar",
+    "Hari yang ringan dan mudah",
+    "Energi positif",
+    "Terus tersenyum",
+    "Suasana hati baik aktif",
+    "Hari ini adalah hari yang baik"
+  ],
+  "neutral": [
+    "Hanya santai",
+    "Stabil dan tenang",
+    "Tidak ada yang dramatis hari ini",
+    "Suasana seimbang",
+    "Santai saja",
+    "Semua baik, tidak terburu-buru",
+    "Hari sederhana ke depan",
+    "Tenang dan terkumpul",
+    "Suasana netral",
+    "Mengikuti arus"
+  ],
+  "low_energy": [
+    "Jalankan perlahan",
+    "Energi tenang hari ini",
+    "Kecepatan mudah",
+    "Mode isi ulang",
+    "Suasana baterai rendah",
+    "Istirahat sedikit lagi",
+    "Lambat tapi mantap",
+    "Istirahat sejenak",
+    "Mode hemat energi",
+    "Hanya bertahan"
+  ],
+  "stress": [
+    "Banyak yang terjadi",
+    "Tarik napas",
+    "Berantakan tapi bergerak",
+    "Satu langkah pada satu waktu",
+    "Terlalu banyak hari ini",
+    "Terus dorong",
+    "Tetap kuat",
+    "Tarik napas dan fokus",
+    "Menghadapi kekacauan",
+    "Bertahan dan maju"
+  ],
+  "fun": [
+    "Waktunya bersenang-senang",
+    "Mode main aktif",
+    "Nikmati momen",
+    "Hanya untuk bersenang-senang",
+    "Istirahat dan bermain",
+    "Waktu menyenangkan menanti",
+    "Santai dan nikmati",
+    "Hanya suasana menyenangkan",
+    "Lepaskan sedikit",
+    "Hari ini untuk bersenang-senang"
+  ],
+  "weird": [
+    "Merasa aneh hari ini",
+    "Ada yang tidak beres",
+    "Suasana aneh",
+    "Bukan hari normal",
+    "Terima kekacauan",
+    "Sedikit tidak biasa",
+    "Aneh tapi oke",
+    "Gangguan suasana",
+    "Energi tak terduga",
+    "Ikuti saja"
+  ],
+  "sick": [
+    "Tidak merasa baik",
+    "Jaga diri hari ini",
+    "Istirahat dan pulih",
+    "Lambat dan sembuh",
+    "Tubuh butuh istirahat",
+    "Hari mudah hari ini",
+    "Santai saja",
+    "Mode pemulihan",
+    "Bersikap lembut pada diri sendiri",
+    "Waktunya istirahat"
+  ],
+  "focus": [
+    "Mode fokus aktif",
+    "Waktunya menyelesaikan tugas",
+    "Fokus penuh",
+    "Waktu kerja mendalam",
+    "Tetap tajam",
+    "Tanpa gangguan",
+    "Masuk ke zona",
+    "Hari produktif menanti",
+    "Mata pada tujuan",
+    "Mari bangun sesuatu"
+  ],
+  "adventure": [
+    "Siap berpetualang",
+    "Jelajahi sesuatu yang baru",
+    "Mari pergi ke suatu tempat",
+    "Cakrawala baru hari ini",
+    "Hancurkan rutinitas",
+    "Petualangan menanti",
+    "Waktunya menjelajah",
+    "Pergi lebih jauh",
+    "Coba sesuatu yang berbeda",
+    "Lihat dunia"
+  ],
+  "love": [
+    "Cinta ada di udara",
+    "Merasa cinta",
+    "Hati penuh hari ini",
+    "Sebarkan sedikit cinta",
+    "Hangat dan bahagia",
+    "Suasana manis",
+    "Mode cinta aktif",
+    "Semua tentang cinta",
+    "Perasaan baik di dalam",
+    "Bagikan cinta"
+  ]
+}

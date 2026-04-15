@@ -1,0 +1,122 @@
+{
+  "happy": [
+    "Gute Vibes heute",
+    "Fühlt sich strahlend an",
+    "Ein fröhlicher Moment",
+    "Lächelmodus eingeschaltet",
+    "Alles fühlt sich richtig an",
+    "Leichter und entspannter Tag",
+    "Positive Energie",
+    "Weiter lächeln",
+    "Gute Laune aktiviert",
+    "Heute ist ein guter Tag"
+  ],
+  "neutral": [
+    "Einfach unterwegs",
+    "Ruhig und beständig",
+    "Nichts Dramatisches heute",
+    "Ausgeglichene Stimmung",
+    "Nimmt es gelassen",
+    "Alles gut, kein Stress",
+    "Einfacher Tag voraus",
+    "Ruhig und gesammelt",
+    "Neutrale Vibes",
+    "Mit dem Strom gehen"
+  ],
+  "low_energy": [
+    "Nimm's langsam",
+    "Leise Energie heute",
+    "Gemäßigtes Tempo",
+    "Aufladen-Modus",
+    "Niedriger Akku-Vibe",
+    "Ruh dich etwas mehr aus",
+    "Langsam aber stetig",
+    "Mach eine Pause",
+    "Energiesparmodus",
+    "Kommt irgendwie durch"
+  ],
+  "stress": [
+    "Viel los",
+    "Atme tief durch",
+    "Chaotisch, aber vorwärts",
+    "Ein Schritt nach dem anderen",
+    "Zu viel heute",
+    "Weiter durchziehen",
+    "Bleib stark",
+    "Atme und konzentriere dich",
+    "Bewältige das Chaos",
+    "Überleben und weiter"
+  ],
+  "fun": [
+    "Zeit zum Spaß haben",
+    "Spielmodus an",
+    "Genieße den Moment",
+    "Einfach zum Spaß",
+    "Mach Pause und spiel",
+    "Gute Zeiten voraus",
+    "Entspann dich und genieße",
+    "Nur Spaß-Vibes",
+    "Lass locker",
+    "Heute ist zum Spaß"
+  ],
+  "weird": [
+    "Fühlt sich heute seltsam an",
+    "Irgendetwas ist anders",
+    "Seltsame Vibes",
+    "Kein normaler Tag",
+    "Umarme das Chaos",
+    "Ein bisschen ungewöhnlich",
+    "Seltsam, aber okay",
+    "Stimmung spinnt",
+    "Unerwartete Energie",
+    "Einfach mitmachen"
+  ],
+  "sick": [
+    "Fühle mich nicht gut",
+    "Pass heute auf dich auf",
+    "Ruhe und erhole dich",
+    "Runterfahren und heilen",
+    "Der Körper braucht Pause",
+    "Ein ruhiger Tag heute",
+    "Nimm es leicht",
+    "Erholungsmodus",
+    "Sei nett zu dir selbst",
+    "Zeit zum Ausruhen"
+  ],
+  "focus": [
+    "Fokusmodus an",
+    "Zeit, Dinge zu erledigen",
+    "Voll konzentriert",
+    "Tiefenarbeitszeit",
+    "Bleib scharf",
+    "Keine Ablenkungen",
+    "Komm in die Zone",
+    "Produktiver Tag voraus",
+    "Augen auf das Ziel",
+    "Lass uns etwas bauen"
+  ],
+  "adventure": [
+    "Bereit für Abenteuer",
+    "Erkunde etwas Neues",
+    "Lass uns irgendwohin gehen",
+    "Neue Horizonte heute",
+    "Durchbreche die Routine",
+    "Abenteuer wartet",
+    "Zeit zu erkunden",
+    "Geh darüber hinaus",
+    "Probiere etwas anderes",
+    "Sieh die Welt"
+  ],
+  "love": [
+    "Liebe liegt in der Luft",
+    "Fühle die Liebe",
+    "Herz heute voller",
+    "Verteile etwas Liebe",
+    "Warm und glücklich",
+    "Süße Vibes",
+    "Liebesmodus an",
+    "Alles über Liebe",
+    "Gute Gefühle drin",
+    "Teile die Liebe"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "happy": [
+    "Goede vibes vandaag",
+    "Voel me stralend",
+    "Een vrolijk moment",
+    "Glimlachmodus aan",
+    "Alles voelt goed",
+    "Lichte en makkelijke dag",
+    "Positieve energie",
+    "Blijf glimlachen",
+    "Goed humeur geactiveerd",
+    "Vandaag is een goede dag"
+  ],
+  "neutral": [
+    "Gewoon cruisen",
+    "Steady en rustig",
+    "Niets dramatisch vandaag",
+    "Gebalanceerde stemming",
+    "Doe rustig aan",
+    "Alles goed, geen haast",
+    "Eenvoudige dag vooruit",
+    "Kalm en beheerst",
+    "Neutrale vibes",
+    "Gaan met de stroom"
+  ],
+  "low_energy": [
+    "Doe rustig aan",
+    "Rustige energie vandaag",
+    "Makkelijk tempo",
+    "Oplaadmodus",
+    "Laag batterijgevoel",
+    "Rust nog even",
+    "Langzaam maar zeker",
+    "Neem een pauze",
+    "Energiebesparingsmodus",
+    "Gewoon doorgaan"
+  ],
+  "stress": [
+    "Veel aan de hand",
+    "Haal adem",
+    "Chaotisch maar gaande",
+    "Een stap tegelijk",
+    "Te veel vandaag",
+    "Blijf duwen",
+    "Blijf sterk",
+    "Adem en focus",
+    "Omgaan met chaos",
+    "Overleven en doorgaan"
+  ],
+  "fun": [
+    "Tijd om plezier te hebben",
+    "Speelmodus aan",
+    "Geniet van het moment",
+    "Gewoon voor de lol",
+    "Neem een pauze en speel",
+    "Leuke tijd vooruit",
+    "Ontspan en geniet",
+    "Alleen leuke vibes",
+    "Laat los een beetje",
+    "Vandaag is om te genieten"
+  ],
+  "weird": [
+    "Voel me raar vandaag",
+    "Iets is anders",
+    "Vreemde vibes",
+    "Geen normale dag",
+    "Omarm de chaos",
+    "Een beetje ongebruikelijk",
+    "Raar maar oke",
+    "Fout in de stemming",
+    "Onverwachte energie",
+    "Gewoon meebewegen"
+  ],
+  "sick": [
+    "Voel me niet goed",
+    "Zorg vandaag voor jezelf",
+    "Rust en herstel",
+    "Rust en genees",
+    "Het lichaam heeft rust nodig",
+    "Gemakkelijke dag vandaag",
+    "Doe rustig aan",
+    "Herstelmodus",
+    "Wees lief voor jezelf",
+    "Tijd om te rusten"
+  ],
+  "focus": [
+    "Focusmodus aan",
+    "Tijd om dingen te doen",
+    "Gefocust",
+    "Diep werk tijd",
+    "Blijf scherp",
+    "Geen afleidingen",
+    "Ga de zone in",
+    "Productieve dag vooruit",
+    "Ogen op het doel",
+    "Laten we iets bouwen"
+  ],
+  "adventure": [
+    "Klaar voor avontuur",
+    "Ontdek iets nieuws",
+    "Laten we ergens heen gaan",
+    "Nieuwe horizonten vandaag",
+    "Doorbreek de routine",
+    "Avontuur wacht",
+    "Tijd om te verkennen",
+    "Ga verder",
+    "Probeer iets anders",
+    "Zie de wereld"
+  ],
+  "love": [
+    "Liefde hangt in de lucht",
+    "Voel de liefde",
+    "Hart vol vandaag",
+    "Verspreid wat liefde",
+    "Warm en gelukkig",
+    "Zoete vibes",
+    "Liefdesmodus aan",
+    "Alles over liefde",
+    "Goede gevoelens binnenin",
+    "Deel de liefde"
+  ]
+}

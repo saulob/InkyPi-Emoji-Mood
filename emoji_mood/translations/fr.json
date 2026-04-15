@@ -1,0 +1,122 @@
+{
+  "happy": [
+    "Bonnes vibrations aujourd'hui",
+    "Se sentir rayonnant",
+    "Un moment joyeux",
+    "Mode sourire activé",
+    "Tout va bien",
+    "Journée légère et facile",
+    "Énergie positive",
+    "Continuez à sourire",
+    "Bonne humeur activée",
+    "Aujourd'hui est une bonne journée"
+  ],
+  "neutral": [
+    "Juste tranquille",
+    "Stable et calme",
+    "Rien de dramatique aujourd'hui",
+    "Humeur équilibrée",
+    "Prendre les choses doucement",
+    "Tout va bien, pas de précipitation",
+    "Journée simple à venir",
+    "Calme et posé",
+    "Vibrations neutres",
+    "Suivre le courant"
+  ],
+  "low_energy": [
+    "Prends ton temps",
+    "Énergie calme aujourd'hui",
+    "Rythme facile",
+    "Mode recharge",
+    "Vibes batterie faible",
+    "Repose-toi un peu plus",
+    "Lent mais régulier",
+    "Fais une pause",
+    "Mode économie d'énergie",
+    "Juste pour tenir"
+  ],
+  "stress": [
+    "Beaucoup en cours",
+    "Respire un coup",
+    "Désordonné mais en mouvement",
+    "Un pas à la fois",
+    "Trop aujourd'hui",
+    "Continue d'avancer",
+    "Reste fort",
+    "Respire et concentre-toi",
+    "Gérer le chaos",
+    "Survivre et avancer"
+  ],
+  "fun": [
+    "Temps pour s'amuser",
+    "Mode jeu activé",
+    "Profite du moment",
+    "Juste pour le plaisir",
+    "Fais une pause et joue",
+    "Bon moment à venir",
+    "Détends-toi et profite",
+    "Vibes amusantes seulement",
+    "Lâche-toi un peu",
+    "Aujourd'hui c'est pour s'amuser"
+  ],
+  "weird": [
+    "Se sent étrange aujourd'hui",
+    "Quelque chose cloche",
+    "Vibes étranges",
+    "Pas un jour normal",
+    "Embrasse le chaos",
+    "Un peu inhabituel",
+    "Étrange mais ça va",
+    "Bug dans l'humeur",
+    "Énergie inattendue",
+    "Suis le courant"
+  ],
+  "sick": [
+    "Pas en forme",
+    "Prends soin de toi aujourd'hui",
+    "Repose-toi et récupère",
+    "Ralentis et guéris",
+    "Le corps a besoin d'une pause",
+    "Jour tranquille aujourd'hui",
+    "Prends-le doucement",
+    "Mode récupération",
+    "Sois doux avec toi-même",
+    "Temps de repos"
+  ],
+  "focus": [
+    "Mode concentration activé",
+    "Temps de faire les choses",
+    "Concentré",
+    "Temps de travail profond",
+    "Reste affûté",
+    "Pas de distractions",
+    "Entre dans la zone",
+    "Journée productive à venir",
+    "Les yeux sur l'objectif",
+    "Construisons quelque chose"
+  ],
+  "adventure": [
+    "Prêt pour l'aventure",
+    "Explore quelque chose de nouveau",
+    "Allons quelque part",
+    "Nouveaux horizons aujourd'hui",
+    "Brise la routine",
+    "L'aventure attend",
+    "Temps d'explorer",
+    "Allez au-delà",
+    "Essayez quelque chose de différent",
+    "Voyez le monde"
+  ],
+  "love": [
+    "L'amour est dans l'air",
+    "Sentir l'amour",
+    "Cœur rempli aujourd'hui",
+    "Partagez un peu d'amour",
+    "Chaud et heureux",
+    "Vibes douces",
+    "Mode amour activé",
+    "Tout sur l'amour",
+    "Bons sentiments à l'intérieur",
+    "Partagez l'amour"
+  ]
+}

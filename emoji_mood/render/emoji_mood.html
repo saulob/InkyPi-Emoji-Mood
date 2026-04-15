@@ -1,0 +1,19 @@
+{% extends "plugin.html" %}
+
+{% block content %}
+<div class="emoji-mood-root{% if not show_caption %} minimal{% endif %}">
+    <div class="title">Emoji Mood</div>
+
+    <div class="emoji-mood-container">
+        <img class="emoji-img" src="{{ twemoji_url }}"
+             alt="{{ emoji }}"
+             onerror="this.style.display='none'; document.getElementById('emoji-fallback').style.display='block';" />
+        <div id="emoji-fallback" class="emoji-fallback">{{ emoji }}</div>
+    </div>
+
+    {% if show_caption %}
+    <div class="caption">{{ caption }}</div>
+    {% endif %}
+</div>
+
+{% endblock %}

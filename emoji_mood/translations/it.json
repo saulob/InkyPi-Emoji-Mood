@@ -1,0 +1,122 @@
+{
+  "happy": [
+    "Buone vibrazioni oggi",
+    "Mi sento radioso",
+    "Un momento allegro",
+    "Modalità sorriso attivata",
+    "Tutto sembra a posto",
+    "Giornata leggera e facile",
+    "Energia positiva",
+    "Continua a sorridere",
+    "Buon umore attivato",
+    "Oggi è una buona giornata"
+  ],
+  "neutral": [
+    "Solo in giro",
+    "Stabile e calmo",
+    "Niente di drammatico oggi",
+    "Umore bilanciato",
+    "Prendila con calma",
+    "Tutto bene, niente fretta",
+    "Giornata semplice davanti",
+    "Calmo e raccolto",
+    "Vibrazioni neutre",
+    "Seguendo il flusso"
+  ],
+  "low_energy": [
+    "Prendila con calma",
+    "Energia bassa oggi",
+    "Passo lento",
+    "Modalità ricarica",
+    "Vibrazioni batteria bassa",
+    "Riposa un po' di più",
+    "Lento ma costante",
+    "Fai una pausa",
+    "Modalità risparmio energetico",
+    "Sto solo andando avanti"
+  ],
+  "stress": [
+    "Molto in corso",
+    "Fai un respiro",
+    "Disordinato ma in movimento",
+    "Un passo alla volta",
+    "Troppo oggi",
+    "Continua a spingere",
+    "Rimani forte",
+    "Respira e concentra",
+    "Gestendo il caos",
+    "Sopravvivi e vai avanti"
+  ],
+  "fun": [
+    "Tempo per divertirsi",
+    "Modalità gioco attiva",
+    "Goditi il momento",
+    "Solo per divertimento",
+    "Prenditi una pausa e gioca",
+    "Bel tempo avanti",
+    "Rilassati e divertiti",
+    "Solo vibrazioni divertenti",
+    "Lasciati andare un po'",
+    "Oggi è per divertirsi"
+  ],
+  "weird": [
+    "Mi sento strano oggi",
+    "Qualcosa non va",
+    "Vibrazioni strane",
+    "Non è un giorno normale",
+    "Abbraccia il caos",
+    "Un po' insolito",
+    "Strano ma va bene",
+    "Errore nell'umore",
+    "Energia inaspettata",
+    "Vai con il flusso"
+  ],
+  "sick": [
+    "Non mi sento bene",
+    "Abbi cura di te oggi",
+    "Riposa e recupera",
+    "Rallenta e guarisci",
+    "Il corpo ha bisogno di una pausa",
+    "Giornata facile oggi",
+    "Prendila con calma",
+    "Modalità recupero",
+    "Sii gentile con te stesso",
+    "È ora di riposare"
+  ],
+  "focus": [
+    "Modalità concentrazione attiva",
+    "È ora di fare le cose",
+    "Concentrato",
+    "Tempo di lavoro profondo",
+    "Rimani affilato",
+    "Nessuna distrazione",
+    "Entra nella zona",
+    "Giornata produttiva avanti",
+    "Occhi sull'obiettivo",
+    "Costruiamo qualcosa"
+  ],
+  "adventure": [
+    "Pronto per l'avventura",
+    "Esplora qualcosa di nuovo",
+    "Andiamo da qualche parte",
+    "Nuovi orizzonti oggi",
+    "Rompi la routine",
+    "L'avventura aspetta",
+    "È ora di esplorare",
+    "Vai oltre",
+    "Prova qualcosa di diverso",
+    "Vedi il mondo"
+  ],
+  "love": [
+    "L'amore è nell'aria",
+    "Sentendo l'amore",
+    "Cuore pieno oggi",
+    "Spargi un po' d'amore",
+    "Caldo e felice",
+    "Vibrazioni dolci",
+    "Modalità amore attivata",
+    "Tutto sull'amore",
+    "Buoni sentimenti dentro",
+    "Condividi l'amore"
+  ]
+}

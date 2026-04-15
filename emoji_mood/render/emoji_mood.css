@@ -1,0 +1,59 @@
+.emoji-mood-root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Jost", sans-serif;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    gap: 3dvh;
+}
+
+.title {
+    width: 100%;
+    margin: -3dvh 0 0;
+    font-size: min(6dvh, 6dvw);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    padding-top: 0;
+    flex-shrink: 0;
+}
+
+.emoji-mood-container {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+}
+
+.emoji-img {
+    width: min(67dvh, 67dvw);
+    height: min(67dvh, 67dvw);
+    object-fit: contain;
+}
+
+.emoji-fallback {
+    display: none;
+    font-size: min(67dvh, 67dvw);
+    line-height: 1.1;
+}
+
+.caption {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: -3dvh;
+    font-size: min(7.26dvh, 7.26dvw);
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    flex-shrink: 0;
+}
+
+.emoji-mood-root.minimal {
+    /* Slightly larger gap when caption is hidden to keep layout balanced */
+    gap: 6dvh;
+}
